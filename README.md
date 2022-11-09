@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wei Chen.
-- 👀 I’m interested in spatial-temporal date mining / causal discovery.
+- 👀 I’m interested in data mining / information retrieval, especially in spatio-temporal field.
 - 🌱 I'm a third year graduate student.
 - 💞️ If you are interested in my research, please feel free to contact me for cooperation.
 
