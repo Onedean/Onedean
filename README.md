@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Wei Chen.
-- 👀 I’m interested in data mining / information retrieval, especially in spatio-temporal field.
-- 🌱 I'm a third year graduate student.
+- 👋 Hi, I'm Wei Chen.
+- 🌱 I'm a first year Ph.D. Student at System Hub affiliated with Hong Kong University of Science and Technology (Guangzhou)
+- 👀 My research interests include (but are not limited to) machine learning, causal discovery, spatiotemporal data modeling, and intelligent transportation systems.
 - 💞️ If you are interested in my research, please feel free to contact me for cooperation.
 
 <!---
